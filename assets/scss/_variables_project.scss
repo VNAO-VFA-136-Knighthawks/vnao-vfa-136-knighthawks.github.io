@@ -4,3 +4,25 @@ Add styles or override variables from the theme here.
 
 */
 
+$td-enable-google-fonts: false;
+
+$primary: #3D3C41;
+$secondary: #4D4A58;
+
+// As hex codes */
+
+$color-primary-0: #3D3C41;	// Main Primary color */
+$color-primary-1: #4D4A58;
+$color-primary-2: #333237;
+$color-primary-3: #2A282D;
+$color-primary-4: #1E1D21;
+
+
+
+// As RGBa codes */
+
+$rgba-primary-0: rgba( 61, 60, 65,1);	// Main Primary color */
+$rgba-primary-1: rgba( 77, 74, 88,1);
+$rgba-primary-2: rgba( 51, 50, 55,1);
+$rgba-primary-3: rgba( 42, 40, 45,1);
+$rgba-primary-4: rgba( 30, 29, 33,1);
