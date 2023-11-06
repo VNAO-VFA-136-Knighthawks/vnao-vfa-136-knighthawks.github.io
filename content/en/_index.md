@@ -75,7 +75,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 | 305	   	| 		 	 		|     											|				|
 | 306	   	| Dutch	 	 		|    <img src="/flags/us.png" width="30px"> 	|	April 23	|
 | 307	   	| Floats 	 		|    <img src="/flags/us.png" width="30px"> 	|	May 21		|
-| 310	   	| Gunz 	 			|    <img src="/flags/bh.png" width="30px"> 	|	May 21		|
+| 310	   	|     	 			|          									 	|				|
 | 311	   	| 		 	 		|     											|				|
 | 312	   	| Solid	 	 		|    <img src="/flags/de.png" width="30px"> 	|	July 21		|
 | 314	   	| T-Cup	 	 		|    <img src="/flags/gb.png" width="30px">  	|	April 23	|
