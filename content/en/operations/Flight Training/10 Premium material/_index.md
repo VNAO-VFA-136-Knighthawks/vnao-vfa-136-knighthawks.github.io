@@ -51,9 +51,6 @@ NATOPS documents provide very detailed and comprehensive information
 Be aware that those documents are restricted to U.S. government and their contractors only. So you better not search for them on the internet, please.
 
 
-### Checklists
-
-
 ### CNATRA documents
 Issued by the Chief of Naval Air Training, this collection of documents covers the training of future naval aviators or naval flight officers. Although documents from the advanced phases of flight training are not publicly available (anymore), many of the early phases are. Be aware that some topics are artificially simplified or adapted for training purposes. Later, in the fleet, other rules may apply.
  - [CNATRA PDF publications](https://www.cnatra.navy.mil/pubs-pat-pubs.asp)
