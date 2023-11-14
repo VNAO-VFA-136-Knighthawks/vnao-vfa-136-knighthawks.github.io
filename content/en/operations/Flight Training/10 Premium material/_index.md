@@ -16,25 +16,25 @@ Although much of this material is valuable to all virtual pilots, the focus of t
 ### The carrier ops bible
 {{% imgproc CarrierManualDCS Fit "500x400" %}}
 Comprehensive guide to carrier ops written by Pieterras / DCS-Sn@k3Sh!t with the help from real life navy pilots. 
-[Click here to get to the document](https://drive.google.com/file/d/13iSdavDzoHkTkoaD3ulQPprLWfjKCww-/view)
+[Open the document](https://drive.google.com/file/d/13iSdavDzoHkTkoaD3ulQPprLWfjKCww-/view)
 {{% /imgproc %}}
 
 ### Lex's boat ops videos
 {{% cardpane %}}
-{{% card header="**Boat Ops Part I**" title="Lex explaining port holding, the pattern and more" subtitle="" footer="[Click here to watch the video on YouTube](https://www.youtube.com/watch?v=bLOZJ0tpzRs)" %}}
+{{% card header="**Boat Ops Part I**" title="Lex explaining port holding, the pattern and more" subtitle="" footer="[Video on YouTube](https://www.youtube.com/watch?v=bLOZJ0tpzRs)" %}}
 ![Boat Ops Part I](BoatOpsPart1.png "Boat Ops Part I")
 {{% /card %}}
-{{% card header="**Boat Ops Part II**" title="More details on keeping your interval in the pattern and on setting up the jet on deck." subtitle="" footer="[Click here to watch the video on YouTube](https://www.youtube.com/watch?v=f5GIW7ZVma0)" %}}
+{{% card header="**Boat Ops Part II**" title="More details on keeping your interval in the pattern and on setting up the jet on deck." subtitle="" footer="[Video on YouTube](https://www.youtube.com/watch?v=f5GIW7ZVma0)" %}}
 ![Boat Ops Part II](BoatOpsPart2.png "Boat Ops Part I")
 {{% /card %}}
 {{% /cardpane %}}
 
 ### Pieter Ras video and document
 {{% cardpane %}}
-{{% card header="**Full Case I Recovery**" title="Pieter showcasing a full Case I recovery with hawking the deck" subtitle="" footer="[Click here to watch the video on YouTube](https://www.youtube.com/watch?v=bLOZJ0tpzRs)" %}}
+{{% card header="**Full Case I Recovery**" title="Pieter showcasing a full Case I recovery with hawking the deck" subtitle="" footer="[Video on YouTube](https://www.youtube.com/watch?v=bLOZJ0tpzRs)" %}}
 ![Full Case I](FullCase_I.png "Full Case I Recovery")
 {{% /card %}}
-{{% card header="**Cyclic ops explained**" title="Pieter has written a very good explanation of cyclic ops." subtitle="" footer="[Click here to access to document](https://drive.google.com/file/d/1gCUyoDQ-DGGBCFEOvgpER9L1w7hc0TT5/view)" %}}
+{{% card header="**Cyclic ops explained**" title="Pieter has written a very good explanation of cyclic ops." subtitle="" footer="[Open the document](https://drive.google.com/file/d/1gCUyoDQ-DGGBCFEOvgpER9L1w7hc0TT5/view)" %}}
 ![Cyclic Ops Document](CyclicOpsDoc.png "Cyclic Ops Document")
 {{% /card %}}
 {{% /cardpane %}}
