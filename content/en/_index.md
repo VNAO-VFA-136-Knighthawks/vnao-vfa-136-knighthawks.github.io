@@ -78,7 +78,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 | 310	   	|     	 			|          									 	|				|
 | 311	   	| 		 	 		|     											|				|
 | 312	   	| Solid	 	 		|    <img src="/flags/de.png" width="30px"> 	|	July 21		|
-| 314	   	| T-Cup	 	 		|    <img src="/flags/gb.png" width="30px">  	|	April 23	|
+| 314	   	| 		 	 		|    										 	|				|
 | 315	   	| Wingnut 	 		|    <img src="/flags/us.png" width="30px">  	|	Oct 21		|
 {.table .table-striped .h3 .text-center }
 
