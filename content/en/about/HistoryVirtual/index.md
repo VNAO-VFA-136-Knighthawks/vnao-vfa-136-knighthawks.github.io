@@ -8,7 +8,12 @@ tags: [History]
 description: >
   A short summary of the virtual fighter squadron's history
 ---
+## November 2023
+VFA-136 arrived at Nellis for the workup exercises prior to the next deployment
 
+{{% imgproc FlyInNellis.png Fit "800x450" %}}
+The skipper with Solid and Bambi - cleared for the overhead runway 3L.
+{{% /imgproc %}}
 
 ## October 2023
 VFA-136 took part in CVW-7's Cope West Readiness Exercise. Thanks to those who made this exercise happen!
