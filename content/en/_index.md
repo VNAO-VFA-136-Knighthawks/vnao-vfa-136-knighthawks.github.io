@@ -73,7 +73,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 | 303	   	| Bambi 	 		|    <img src="/flags/fr.png" width="30px">		|	March 23	|
 | 304	   	| 		 	 		|     											|				|
 | 305	   	| 		 	 		|     											|				|
-| 306	   	| Dutch	 	 		|    <img src="/flags/us.png" width="30px"> 	|	April 23	|
+| 306	   	| Clutch	 	 	|    <img src="/flags/us.png" width="30px"> 	|	April 23	|
 | 307	   	| Floats 	 		|    <img src="/flags/us.png" width="30px"> 	|	May 21		|
 | 310	   	|     	 			|          									 	|				|
 | 311	   	| 		 	 		|     											|				|
