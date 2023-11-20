@@ -30,8 +30,3 @@ Although much of this material is valuable to all virtual pilots, the focus of t
 
 {{% /cardpane %}}
 
-
-### Canadian pilot training 
-{{% card header="**Jetstream series (YouTube)**" title="A TV series about Canadian fighter pilot training" subtitle="" footer="[YouTube playlist](https://www.youtube.com/watch?v=nbRC0gOV33A&list=PLYW9PvYkTjQebdKRmtvcpGPHBiSkFxCvh&pp=iAQB)" %}}
-![JETSTREAM](Jetstream.jpg "Jetstream")
-{{% /card %}}
