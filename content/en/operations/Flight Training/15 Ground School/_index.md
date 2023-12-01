@@ -21,7 +21,7 @@ We present this material solely for educational purposes in the field of flight 
 {{% card header="**Fundamentals of Aerodynamics**" title="" subtitle="Naval Aviation Schools Command" footer="<a href='aero-trainee-guide.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
 ![Aero Guide](aero-trainee-guide.png "Aero Guide")
 {{% /card %}}
-{{% card header="**Aerodynamics for Naval Aviators**" title="" subtitle="Naval Air Systems Command" footer="<a href='00-80T-80AeroForNavy.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
+{{% card header="**Aerodynamics for Naval Aviators**" title="" subtitle="Naval Air Systems Command (size: 26 MB)" footer="<a href='00-80T-80AeroForNavy.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
 ![Aero for Navy](00-80T-80AeroForNavy.png "Aero for Navy")
 {{% /card %}}
 {{% /cardpane %}}
@@ -38,10 +38,15 @@ We present this material solely for educational purposes in the field of flight 
 {{% /card %}}
 
 ### Navigation 
-
+{{% cardpane %}}
 {{% card header="**Introduction to Air Navigation**" title="" subtitle="Naval Aviation Schools Command" footer="<a href='nav-trainee-guide.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
 ![Nav Guide](nav-trainee-guide.png "Nav Guide")
 {{% /card %}}
+
+{{% card header="**Aeronautcal Chart User's Guide**" title="" subtitle="FAA (size: 55 MB)" footer="<a href='cug-complete.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
+![Charts Guide](cug-complete.png "Charts Guide")
+{{% /card %}}
+{{% /cardpane %}}
 
 ### Regulations 
 
