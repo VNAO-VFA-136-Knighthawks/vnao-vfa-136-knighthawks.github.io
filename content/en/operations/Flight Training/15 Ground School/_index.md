@@ -17,11 +17,14 @@ We present this material solely for educational purposes in the field of flight 
 
 ### Aerodynamics
 
-
+{{% cardpane %}}
 {{% card header="**Fundamentals of Aerodynamics**" title="" subtitle="Naval Aviation Schools Command" footer="<a href='aero-trainee-guide.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
 ![Aero Guide](aero-trainee-guide.png "Aero Guide")
 {{% /card %}}
-
+{{% card header="**Aerodynamics for Naval Aviators**" title="" subtitle="Naval Air Systems Command" footer="<a href='00-80T-80AeroForNavy.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
+![Aero for Navy](00-80T-80AeroForNavy.png "Aero for Navy")
+{{% /card %}}
+{{% /cardpane %}}
 ### Weather
 
 {{% card header="**Aviation Weather**" title="" subtitle="Naval Aviation Schools Command" footer="<a href='wx-trainee-guide.pdf' target='_blank'>[Click here to open the pdf]</a>" %}}
