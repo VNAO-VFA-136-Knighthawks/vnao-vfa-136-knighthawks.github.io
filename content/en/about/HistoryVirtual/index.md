@@ -16,6 +16,8 @@ description: >
   {{% /imgproc %}}
 
   - T-Cup (314) transitions to the FRS squadron VFA-106 Gladiators. Thank you for your service to the Knighthawks!
+  - Clutch (306) leaves the squadron due to real life priorities. Thank you for your service to the Knighthawks!
+  
 
 ## October 2023
 VFA-136 took part in CVW-7's Cope West Readiness Exercise. Thanks to those who made this exercise happen!
