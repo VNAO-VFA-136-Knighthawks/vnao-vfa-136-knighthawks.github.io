@@ -76,6 +76,7 @@ We don't want to recommend specific products here, but the following list should
   * Second screen
   
  * **Enthusiast** - yes, THAT is my hobby
+   * Expert HOTAS (high-quality brands/materials, stick extension,...)
    * VR-Headset
    * Rudder pedals
    * Hardware cockpit panels and displays
