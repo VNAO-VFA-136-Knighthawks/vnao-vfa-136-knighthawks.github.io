@@ -46,6 +46,21 @@ See our doc pages for more information about us.
 {{% blocks/section color="secondary" %}}
 We are not a milsim group, but we are proud to relive the dream of being a fighter pilot with real-life procedures, communications and tactics.
 {.h2 .text-center }
+
+
+{{% /blocks/section %}}
+
+{{% blocks/section color="primary" %}}
+
+<div class="youtubecontainer">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9GnaX9gjRM8?si=ll_veXo7bnMzF9sx&amp;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class=youtubevideo>
+	</iframe>
+</div>
+
+Video produced by Crow and the media team
+{.h2 .text-center }
+
+
 {{% /blocks/section %}}
 
 <a name="roster"></a>
