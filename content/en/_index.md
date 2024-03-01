@@ -51,13 +51,16 @@ We are not a milsim group, but we are proud to relive the dream of being a fight
 {{% /blocks/section %}}
 
 {{% blocks/section color="primary" %}}
-
+Falklands Deployment started
+{.h1 .text-center }
+VNAO CVW-7 is on deployment now.
+{.h2 .text-center }
 <div class="youtubecontainer">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9GnaX9gjRM8?si=ll_veXo7bnMzF9sx&amp;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class=youtubevideo>
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z_6rMAMZP1I?si=ll_veXo7bnMzF9sx&amp;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class=youtubevideo>
 	</iframe>
 </div>
 
-Video produced by Crow and the media team
+Video by VFA-86 Shockwave
 {.h2 .text-center }
 
 

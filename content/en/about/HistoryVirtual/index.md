@@ -8,9 +8,16 @@ tags: [History]
 description: >
   A short summary of the virtual fighter squadron's history
 ---
-## November 2023
- - VFA-136 arrived at Nellis for the workup exercises prior to the next deployment
 
+## February 2024
+ - CVW-7 transitions to the South Atlantic for combat deployment
+ 
+## January 2024
+ - CVW-7 holds carrier (re-)qualifications for all members. 6 Traps required with average not less than 3.0.
+
+## November 2023
+ - VFA-136 arrives at Nellis for the workup exercises prior to the next deployment
+  
   {{% imgproc FlyInNellis.png Fit "800x450" %}}
   The skipper with Solid and Bambi - cleared for the overhead runway 3L.
   {{% /imgproc %}}
@@ -20,14 +27,14 @@ description: >
   
 
 ## October 2023
-VFA-136 took part in CVW-7's Cope West Readiness Exercise. Thanks to those who made this exercise happen!
+VFA-136 takes part in CVW-7's Cope West Readiness Exercise. Thanks to those who made this exercise happen!
 
 {{% imgproc CopeWestResults.png Fit "800x450" %}}
 Results of VFA-136 for the Cope West Readiness Exercise
 {{% /imgproc %}}
 
 ## September 2023
-The Knighthawks squadron within VNAO was founded in September 2023. After the deestablishment of VNAO's Carrier Air Wing 14 (CVW-14) in August 2023, several pilots from CVW-14 transfered to the newly created squadron under the command of CVW-7.
+The Knighthawks squadron within VNAO is founded. After the deestablishment of VNAO's Carrier Air Wing 14 (CVW-14) in August 2023, several pilots from CVW-14 transfer to the newly created squadron under the command of CVW-7.
 
 For VFA-136 leadership, Blade is appointed Commanding Officer (CO) with Mumbles as Executive Officer (XO). 
 
