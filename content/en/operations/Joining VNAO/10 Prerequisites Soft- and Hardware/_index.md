@@ -128,3 +128,13 @@ VNAO runs different DCS servers that provide training or combat environments in 
 
 OMM can connect to online mod repositories, where all the required mods are stored and updated in case newer versions are released. VNAO hosts a mod repository for its members, so you'll be given access once you've decided to join.
 
+## Other Software, not mandatory
+
+### OpenKneeboard
+
+Although DCS itself has a built-in kneeboard that you can use, [OpenKneeboard](https://openkneeboard.com/) gives you some more functionality that is not (yet) available in the built-in kneeboard.
+Especially for VR users it is said to have advantages.
+
+### Voice Attack
+
+[Voice Attack](https://voiceattack.com/) lets you control almost anything in DCS with your voice. Tired of pressing buttons? Give it a try...
