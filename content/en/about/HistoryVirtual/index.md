@@ -8,9 +8,12 @@ tags: [History]
 description: >
   A short summary of the virtual fighter squadron's history
 ---
-
+## March 2024
+ - Crow transitions from VFA-86 to the Knighthawks. Modex 314. Welcome!
+ 
 ## February 2024
  - CVW-7 transitions to the South Atlantic for combat deployment
+ - Whip completes his FRS training and joins the Knighthawks (304).
  
 ## January 2024
  - CVW-7 holds carrier (re-)qualifications for all members. 6 Traps required with average not less than 3.0.
