@@ -15,11 +15,11 @@ Joining VNAO is very easy. Just visit our [VNAO Discord Server](https://discord.
  - Where are you from, what time zone are you in?
  - Your experience level with DCS / the aircraft
 
-If you're welcome to join (rarely are people not welcome), and if you're ready, you'll be assigned the appropriate Discord roles. You will start your qualification process as a VT, which is a member of the VT Training Squadron. You'll have access to more Discord channels and our basic training materials.  
+If you're welcome to join (rarely are people not welcome), and if you're ready, you'll be assigned the appropriate Discord roles. You will begin your qualification process as a VT, which is a member of a VT Training Squadron. You'll have access to additional Discord channels. You'll be enrolled in the training program. In preparation for your initial carrier qualification, you'll be given a curriculum to work through. 
 
-## The Qualification Process
+## Carrier Qualification
 
-You'll be a VT for at least 30 days. During this time, we can get to know each other and see if VNAO is the right place for you. You will also want to prepare for your first Carrier Qualification (CQ) event that we hold each month. After passing the CQ, you'll become a member of one of VNAO's squadrons. During the qualification sortie the following requirements must be met:
+Each month, we hold a carrier qualification event where VTs can show that they are ready to take the next step. During the qualification sortie the following requirements must be met:
  
 - Cold start your aircraft from the ramp
 - Navigate to an assigned waypoint
@@ -36,6 +36,12 @@ Sounds challenging? It is, but other pilots in the VNAO will help you prepare fo
 {{% imgproc Screen_230929_191213 Fit "800x450" %}}
 A VT pilot trained by a Knighthawk.  
 {{% /imgproc %}}
+
+## FRS Phase
+After passing your initial carrier qualification, you'll join an FRS squadron. The syllabus there is designed to prepare you for a smoother transition into a VNAO squadron. 
+
+## Joining a fleet squadron
+Upon completion of FRS training, you will finally join one of VNAO's active fleet squadrons. Be prepared to welcome a new callsign that will be given to you by your new squadron mates.
 
 ## Staying on Board 
 In order to stay on board, you must be an active member. Currently, the only requirement is to have at least four traps on the carrier per month. We encourage everyone to contribute their knowledge and skills to help the community, be it as a mission designer, skin artist, or whatever you are (or want to be) good at.
