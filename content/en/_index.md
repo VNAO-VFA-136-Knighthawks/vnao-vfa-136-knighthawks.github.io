@@ -89,14 +89,14 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 | 301      	| **Blade (CO)**  	|	 <img src="/flags/us.png" width="30px"> 	|	April 20	|
 | 302	   	| **Mumbles (XO**) 	|    <img src="/flags/ca.png" width="30px"> 	|	July 22		|
 | 303	   	| Bambi 	 		|    <img src="/flags/fr.png" width="30px">		|	March 23	|
-| 304	   	| Whip	 	 		|    <img src="/flags/us.png" width="30px"> 	|				|
+| 304	   	| Whip	 	 		|    <img src="/flags/us.png" width="30px"> 	|	Jan 24		|
 | 305	   	| 		 	 		|     											|				|
 | 306	   	| 	   		 	 	|    											|				|
 | 307	   	| Floats 	 		|    <img src="/flags/us.png" width="30px"> 	|	May 21		|
 | 310	   	|     	 			|          									 	|				|
 | 311	   	| 		 	 		|     											|				|
 | 312	   	| Solid	 	 		|    <img src="/flags/de.png" width="30px"> 	|	July 21		|
-| 314	   	| Crow		 	 	|    <img src="/flags/us.png" width="30px">  	|				|
+| 314	   	| Crow		 	 	|    <img src="/flags/us.png" width="30px">  	|	Oct 20		|
 | 315	   	| Wingnut 	 		|    <img src="/flags/us.png" width="30px">  	|	Oct 21		|
 {.table .table-striped .h3 .text-center }
 
