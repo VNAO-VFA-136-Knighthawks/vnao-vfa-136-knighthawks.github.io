@@ -19,7 +19,7 @@ If you're welcome to join (rarely are people not welcome), and if you're ready, 
 
 ## Carrier Qualification
 
-Each month, we hold a carrier qualification event where VTs can show that they are ready to take the next step. During the qualification sortie the following requirements must be met:
+Each month, VNAO holds a carrier qualification event where VTs can show that they are ready to take the next step. During the qualification sortie the following requirements must be met:
  
 - Cold start your aircraft from the ramp
 - Navigate to an assigned waypoint
