@@ -2,8 +2,8 @@
 title: Operations
 linkTitle: Operations
 type: docs
-menu: {main: {weight: 20}}
-weight: 20
+menu: {main: {weight: 10}}
+weight: 10
 ---
 
 
