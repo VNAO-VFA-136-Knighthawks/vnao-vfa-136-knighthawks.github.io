@@ -77,13 +77,141 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 {.h3 .text-center }
 
 <p></p>
+
 <style>
-.table {
-   margin: auto;
-   width: 50% !important; 
-}
+
+	.table {
+		margin: 0;
+	}
+
+	.roster-container {
+		margin-left: 25%;
+		width: 50%;
+	}
+
+	.rostertable {
+		font-size: 1.5em;
+	}
+
+	.staffcell {
+		font-weight: bold;
+	}
+
+	.imagecell {
+		text-align: center;
+	}
+	.imagecell > img {
+		width: 30px;	
+	}
+	@media only screen and (max-width: 1000px)
+	{
+		.rostertable {
+			font-size: 1em;
+		}
+	}
+
+	@media only screen and (max-width: 800px)
+	{
+		.rostertable {
+			font-size: 1em;
+			margin-left: 0%;
+			width: 100%;
+		}
+
+		.roster-container {
+			margin-left: 0;
+			width: 100%;
+		}
+	}
+
+
 </style>
 
+<div class="roster-container">
+	<table class="rostertable" id="newone">
+		<thead>
+			<th>Modex</th>
+			<th>Callsign</th>
+			<th>Nationality</th>
+			<th>VNAO Qual</th>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="modex">301</td>
+				<td class="staffcell">Blade (CO)</td>
+				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
+				<td class="joindate">April 20</td>
+			</tr>
+			<tr>
+				<td class="modex">302</td>
+				<td class="staffcell">Mumbles (XO)</td>
+				<td class="imagecell"><img src="/flags/ca.png" alt="CAN"></td>
+				<td class="joindate">July 22</td>
+			</tr>
+			<tr>
+				<td class="modex">303</td>
+				<td class="namecell">Bambi</td>
+				<td class="imagecell"><img src="/flags/fr.png" alt="FR"></td>
+				<td class="joindate">March 23</td>
+			</tr>
+			<tr>
+				<td class="modex">304</td>
+				<td class="namecell">Whip</td>
+				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
+				<td class="joindate">Jan 24</td>
+			</tr>
+			<tr>
+				<td class="modex">305</td>
+				<td class="namecell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
+			</tr>
+			<tr>
+				<td class="modex">306</td>
+				<td class="namecell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
+			</tr>
+			<tr>
+				<td class="modex">307</td>
+				<td class="namecell">Floats</td>
+				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
+				<td class="joindate">May 21</td>
+			</tr>
+			<tr>
+				<td class="modex">310</td>
+				<td class="namecell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
+			</tr>
+			<tr>
+				<td class="modex">311</td>
+				<td class="namecell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
+			</tr>
+			<tr>
+				<td class="modex">312</td>
+				<td class="namecell">Solid</td>
+				<td class="imagecell"><img src="/flags/de.png" alt="GER"></td>
+				<td class="joindate">July 21</td>
+			</tr>	
+			<tr>
+				<td class="modex">313</td>
+				<td class="namecell">Crow</td>
+				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
+				<td class="joindate">Oct 20</td>
+			</tr>
+			<tr>
+				<td class="modex">314</td>
+				<td class="namecell">Wingnut</td>
+				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
+				<td class="joindate">Oct 21</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<!---
 | Modex		| Callsign 		| Nationality 										| Initial VNAO qual	| 
 | ----------| ----------- 	| ----------- 										| ----------- 	|
 | 301      	| **Blade (CO)**  	|	 <img src="/flags/us.png" width="30px"> 	|	April 20	|
@@ -99,6 +227,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 | 314	   	| Crow		 	 	|    <img src="/flags/us.png" width="30px">  	|	Oct 20		|
 | 315	   	| Wingnut 	 		|    <img src="/flags/us.png" width="30px">  	|	Oct 21		|
 {.table .table-striped .h3 .text-center }
+--->
 
 {{% /blocks/section %}}
 
