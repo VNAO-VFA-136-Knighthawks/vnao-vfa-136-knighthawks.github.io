@@ -17,6 +17,11 @@ Joining VNAO is very easy. Just visit our [VNAO Discord Server](https://discord.
 
 If you're welcome to join (rarely are people not welcome), and if you're ready, you'll be assigned the appropriate Discord roles. You will begin your qualification process as a VT, which is a member of a VT Training Squadron. You'll have access to additional Discord channels. You'll be enrolled in the training program. In preparation for your initial carrier qualification, you'll be given a curriculum to work through. 
 
+**Important:**
+
+While we love the T-45, we have decided **NOT** to use it in the VNAO VT pipeline. This means that you will do all of your training and CQ on the aircraft you will eventually fly in the VNAO squadron. 
+At the moment this is either the F14 Tomcat (A- or B-model) or the F/A-18C Hornet.
+
 ## Carrier Qualification
 
 Each month, VNAO holds a carrier qualification event where VTs can show that they are ready to take the next step. During the qualification sortie the following requirements must be met:
@@ -31,7 +36,6 @@ Each month, VNAO holds a carrier qualification event where VTs can show that the
 	- six graded carrier landings with a minimum of a 50% boarding rate and an average score of 2.5
 
 Sounds challenging? It is, but other pilots in the VNAO will help you prepare for the CQ event. And after a mandatory checkride before the CQ event, you'll know if you're ready. 
-
 
 {{% imgproc Screen_230929_191213 Fit "800x450" %}}
 A VT pilot trained by a Knighthawk.  
