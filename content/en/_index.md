@@ -63,6 +63,34 @@ VNAO CVW-7 is on deployment now.
 Video by VFA-86 Shockwave
 {.h2 .text-center }
 
+{{% /blocks/section %}}
+
+{{% blocks/section color="secondary" %}}
+Qualification Training
+{.h1 .text-center }
+
+
+VFA-136 continues to train young virtual student naval aviators in preparation for the VNAO CQ.
+{.h3 .text-center }
+
+<style>
+	.center {
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 100%;
+	  margin-top: 1rem;
+	  margin-bottom: 1rem;
+	}
+</style>
+
+<div >
+	<img class="center" src="Screenshot_2024.06.26_-_16.30.42.26_Junior_Solid_Crow_Schmokey.png" alt="4_on_the_deck">
+</div>
+
+Parked on deck after training. 
+{.h3 .text-center }
+
 
 {{% /blocks/section %}}
 
@@ -116,6 +144,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			font-size: 1em;
 			margin-left: 0%;
 			width: 100%;
+			transition: 0.5s;
 		}
 
 		.roster-container {
@@ -123,8 +152,6 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			width: 100%;
 		}
 	}
-
-
 </style>
 
 <div class="roster-container">
