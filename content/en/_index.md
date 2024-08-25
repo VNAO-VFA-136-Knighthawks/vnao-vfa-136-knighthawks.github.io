@@ -171,9 +171,9 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">302</td>
-				<td class="staffcell">Mumbles (XO)</td>
-				<td class="imagecell"><img src="/flags/ca.png" alt="CAN"></td>
-				<td class="joindate">July 22</td>
+				<td class="staffcell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
 			</tr>
 			<tr>
 				<td class="modex">303</td>
@@ -225,9 +225,9 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>	
 			<tr>
 				<td class="modex">313</td>
-				<td class="namecell">Crow</td>
-				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
-				<td class="joindate">Oct 20</td>
+				<td class="namecell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
 			</tr>
 			<tr>
 				<td class="modex">314</td>
