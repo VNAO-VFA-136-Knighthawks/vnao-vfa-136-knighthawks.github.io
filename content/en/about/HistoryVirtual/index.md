@@ -11,7 +11,9 @@ description: >
 ## August 2024
  - The South Atlantic deployment ends with no losses for the Knighthawks! Great achievement!
  - Mumbles (302) resigns as XO and joins the reserve squadron. Thank you for your service to the Knighthawks!
- - Crow (314) leaves VNAO. Thank you for your service to the Knighthawks!
+ - Solid takes over as XO.
+ - Crow (313) and Wingnut (314) leave the suqadron. Thank you for your service to the Knighthawks!
+
 
 ## March 2024
  - Crow transitions from VFA-86 to the Knighthawks. Modex 314. Welcome!
