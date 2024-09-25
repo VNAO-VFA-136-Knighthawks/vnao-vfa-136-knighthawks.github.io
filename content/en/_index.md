@@ -189,9 +189,9 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">305</td>
-				<td class="namecell"></td>
+				<td class="namecell">Junior</td>
 				<td class="imagecell"><img src=""></td>
-				<td class="joindate"></td>
+				<td class="joindate">Sept 24</td>
 			</tr>
 			<tr>
 				<td class="modex">306</td>
