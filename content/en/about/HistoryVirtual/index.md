@@ -8,6 +8,10 @@ tags: [History]
 description: >
   A short summary of the virtual fighter squadron's history
 ---
+## September 2024
+ - The Air Wing is on its way back to Nevada for workups
+ - Junior (305) completes his FRS syllabus and joins the Knighthawks, welcome!
+ 
 ## August 2024
  - The South Atlantic deployment ends with no losses for the Knighthawks! Great achievement!
  - Mumbles (302) resigns as XO and joins the reserve squadron. Thank you for your service to the Knighthawks!

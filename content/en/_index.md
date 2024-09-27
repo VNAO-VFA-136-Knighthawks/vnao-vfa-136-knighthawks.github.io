@@ -76,7 +76,6 @@ VFA-136 continues to train young virtual student naval aviators in preparation f
 <style>
 	.center {
 	  display: block;
-	  margin-left: auto;
 	  margin-right: auto;
 	  width: 100%;
 	  margin-top: 1rem;
@@ -190,7 +189,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			<tr>
 				<td class="modex">305</td>
 				<td class="namecell">Junior</td>
-				<td class="imagecell"><img src=""></td>
+				<td class="imagecell"><img src="/flags/li.png"></td>
 				<td class="joindate">Sept 24</td>
 			</tr>
 			<tr>
