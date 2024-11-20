@@ -200,9 +200,9 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">307</td>
-				<td class="namecell">Floats</td>
-				<td class="imagecell"><img src="/flags/us.png" alt="US"></td>
-				<td class="joindate">May 21</td>
+				<td class="namecell"></td>
+				<td class="imagecell"><img src=""></td>
+				<td class="joindate"></td>
 			</tr>
 			<tr>
 				<td class="modex">310</td>

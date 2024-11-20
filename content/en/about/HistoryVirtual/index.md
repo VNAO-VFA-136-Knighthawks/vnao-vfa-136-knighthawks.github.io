@@ -8,6 +8,10 @@ tags: [History]
 description: >
   A short summary of the virtual fighter squadron's history
 ---
+
+## November 2024
+ - Floats (307) leaves the squadron. Thank you for your service to the Knighthawks!
+ 
 ## September 2024
  - The Air Wing is on its way back to Nevada for workups
  - Junior (305) completes his FRS syllabus and joins the Knighthawks, welcome!
@@ -16,8 +20,7 @@ description: >
  - The South Atlantic deployment ends with no losses for the Knighthawks! Great achievement!
  - Mumbles (302) resigns as XO and joins the reserve squadron. Thank you for your service to the Knighthawks!
  - Solid takes over as XO.
- - Crow (313) and Wingnut (314) leave the suqadron. Thank you for your service to the Knighthawks!
-
+ - Crow (313) and Wingnut (314) leave the squadron. Thank you for your service to the Knighthawks!
 
 ## March 2024
  - Crow transitions from VFA-86 to the Knighthawks. Modex 314. Welcome!
