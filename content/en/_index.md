@@ -51,26 +51,43 @@ We are not a milsim group, but we are proud to relive the dream of being a fight
 {{% /blocks/section %}}
 
 {{% blocks/section color="primary" %}}
-Falklands Deployment started
+TSTA Workups started
 {.h1 .text-center }
-VNAO CVW-7 is on deployment now.
+VNAO CVW-7 is busy with Tailored Ship Training Availability (TSTA) in preparation for the next deployment.
 {.h2 .text-center }
-<div class="youtubecontainer">
+<!-- <div class="youtubecontainer">
 	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z_6rMAMZP1I?si=ll_veXo7bnMzF9sx&amp;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class=youtubevideo>
 	</iframe>
+</div> -->
+
+<style>
+	.center {
+	  display: block;
+	  margin-right: auto;
+	  width: 100%;
+	  margin-top: 1rem;
+	  margin-bottom: 1rem;
+	}
+</style>
+
+<div >
+	<img class="center" src="Tanking_Solid_Junior_Bambi_2.png" alt="3_tanking">
 </div>
 
-Video by VFA-86 Shockwave
-{.h2 .text-center }
+Solid (302) and Junior are waiting for Bambi (303) who is tanking at an S3 overhead mother. 
+{.h3 .text-center }
+
+Screnshot by VFA-103 Schmokey
+{.h5 .text-center }
 
 {{% /blocks/section %}}
 
 {{% blocks/section color="secondary" %}}
-Qualification Training
+Welcome back...
 {.h1 .text-center }
 
 
-VFA-136 continues to train young virtual student naval aviators in preparation for the VNAO CQ.
+VFA-136 successfully re-qualed for daylight CASE 1 operations on CVN-75 Harry S. Truman
 {.h3 .text-center }
 
 <style>
@@ -84,12 +101,14 @@ VFA-136 continues to train young virtual student naval aviators in preparation f
 </style>
 
 <div >
-	<img class="center" src="Screenshot_2024.06.26_-_16.30.42.26_Junior_Solid_Crow_Schmokey.png" alt="4_on_the_deck">
+	<img class="center" src="qualed.png" alt="qualed">
 </div>
 
-Parked on deck after training. 
+Parked on deck after successful carrier qualification. 
 {.h3 .text-center }
 
+by VFA-136 Junior
+{.h5 .text-center }
 
 {{% /blocks/section %}}
 

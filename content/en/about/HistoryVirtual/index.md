@@ -9,11 +9,14 @@ description: >
   A short summary of the virtual fighter squadron's history
 ---
 
+## January 2025
+ - TSTA workups begin to prepare the air wing for the next deployment.
+
 ## November 2024
  - Floats (307) leaves the squadron. Thank you for your service to the Knighthawks!
  
 ## September 2024
- - The Air Wing is on its way back to Nevada for workups
+ - The air wing is on its way back to Nevada for workups
  - Junior (305) completes his FRS syllabus and joins the Knighthawks, welcome!
  
 ## August 2024
