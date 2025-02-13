@@ -77,7 +77,7 @@ VNAO CVW-7 is busy with Tailored Ship Training Availability (TSTA) in preparatio
 Solid (302) and Junior are waiting for Bambi (303) who is tanking at an S3 overhead mother. 
 {.h3 .text-center }
 
-Screnshot by VFA-103 Schmokey
+Screenshot by VFA-136 Junior
 {.h5 .text-center }
 
 {{% /blocks/section %}}
