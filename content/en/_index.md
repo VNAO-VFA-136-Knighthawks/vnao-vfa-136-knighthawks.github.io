@@ -195,7 +195,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">303</td>
-				<td class="namecell">Bambi</td>
+				<td class="namecell">Bambi (OPS-O)</td>
 				<td class="imagecell"><img src="/flags/fr.png" alt="FR"></td>
 				<td class="joindate">March 23</td>
 			</tr>
@@ -207,7 +207,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">305</td>
-				<td class="namecell">Junior</td>
+				<td class="namecell">Junior (TRG-O)</td>
 				<td class="imagecell"><img src="/flags/li.png"></td>
 				<td class="joindate">Sept 24</td>
 			</tr>
