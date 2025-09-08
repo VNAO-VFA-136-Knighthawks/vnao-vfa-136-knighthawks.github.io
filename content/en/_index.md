@@ -189,7 +189,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">302</td>
-				<td class="namecell">Junior (XO)</td>
+				<td class="staffcell">Junior (XO)</td>
 				<td class="imagecell"><img src="/flags/li.png"></td>
 				<td class="joindate">Sept 24</td>
 			</tr>
@@ -207,7 +207,7 @@ Although in real-life pilots just fly any jet in the squadron's inventory, we at
 			</tr>
 			<tr>
 				<td class="modex">305</td>
-				<td class="staffcell">Solid</td>
+				<td class="namecell">Solid</td>
 				<td class="imagecell"><img src="/flags/de.png" alt="GER"></td>
 				<td class="joindate">July 21</td>
 			</tr>
