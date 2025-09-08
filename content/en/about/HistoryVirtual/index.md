@@ -8,6 +8,11 @@ tags: [History]
 description: >
   A short summary of the virtual fighter squadron's history
 ---
+## September 2025
+ - Solid steps down and Junior takes over the XO position.
+
+## August 2025
+ - The deployment in the Kola regian starts.
 
 ## January 2025
  - TSTA workups begin to prepare the air wing for the next deployment.
